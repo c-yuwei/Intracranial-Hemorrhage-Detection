@@ -1,5 +1,5 @@
 # Intracranial-Hemorrhage-Detection
-Development of a AI-model for detecting brain intracranial hemorrhage using data from RSNA
+Development of an AI-model for detecting brain intracranial hemorrhage using data from RSNA
 
 # Overview
 The objective is to train a 2D multi-label and multi-class classifier for intracranial hemorrhage using CT dicom files provied by open competition RSNA Intracranial Hemorrgage Detection in kaggle. There are five hemorrhage subtypes: intraparenchymal, intraventricular, subarachnoid, subdural and epidural.
