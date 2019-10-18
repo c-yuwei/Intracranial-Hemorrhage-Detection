@@ -10,6 +10,8 @@ Prior run has shown that the overfitting is the major problem in this issue. The
 # Current Results
 2019/10/18 - L2 regularization cnn model
 The CNN.m file creates a model implemented with global and local L2 regularization fators which can yield the 84.87% of accuracy on the classification between epidural and normal.
-For the sake of comparison, I adapted this model to perform 6-classes classified tasks.
+For the sake of comparison, I adapted this model to perform 6-classes classified tasks, and the confusion matrix is as follows.
+We can see that, the class 1 and 2 is well categroized but the class 3 /5, class 1/5 are the most confused pair respectively.
+
 ![alt text](https://github.com/maverickyuwei/Intracranial-Hemorrhage-Detection/blob/master/6%20classess%20confusion%20matrix.jpg)
 
